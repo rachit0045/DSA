@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-int main ()
+int main()
 {
-    char arr[3] = {'a','b','c'};
+    char arr[3] = {'a', 'b', 'c'};
 }
